@@ -9,21 +9,22 @@
         android:targetSdkVersion="26" />
 
     <application
-        android:allowBackup="true"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
-        android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.xuan.helloworld.MainActivity" >
+        <activity
+            android:name="com.example.xuan.helloworld.MainActivity"
+            android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service android:name="com.example.xuan.helloworld.MyService" />
 
         <meta-data
             android:name="android.support.VERSION"

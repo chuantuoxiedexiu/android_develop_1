@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b87a76db58c2a8bcd30d4fe91ab27e6/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a9583e8b37152646173bd2b75402cba4/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d8848d3fbd8627eae928e18a56021eb/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Xuan/.gradle/
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/33500c59f60199d640d0573ee7c01bfa/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/27a36b860acbb771bf8ab0023c4f8269/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7f0ec6698f480b151729966a6d945d08/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
 		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
 		INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:1-20:12
 		INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:5:5-18:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b87a76db58c2a8bcd30d4fe91ab27e6/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b87a76db58c2a8bcd30d4fe91ab27e6/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a9583e8b37152646173bd2b75402cba4/AndroidManifest.xml:9:5-20
@@ -56,32 +56,32 @@ MERGED from [com.android.support:support-compat:26.1.0] /Users/Xuan/.gradle/cach
 MERGED from [com.android.support:support-compat:26.1.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/27a36b860acbb771bf8ab0023c4f8269/AndroidManifest.xml:25:5-29:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7f0ec6698f480b151729966a6d945d08/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Xuan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7f0ec6698f480b151729966a6d945d08/AndroidManifest.xml:24:5-28:19
-	android:supportsRtl
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:8:9-41
-	android:roundIcon
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:7:9-41
 	android:icon
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:7:9-43
-	android:allowBackup
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:6:9-45
 	android:theme
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:8:9-40
 activity#com.example.xuan.helloworld.MainActivity
-ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:11:13-56
 	android:name
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:10:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:12:13-15:29
 action#android.intent.action.MAIN
-ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:14:17-76
 	android:name
-		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:14:27-74
+service#com.example.xuan.helloworld.MyService
+ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:17:9-46
+	android:name
+		ADDED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml:17:18-43
 uses-sdk
 INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Xuan/Documents/AndroidStudioProjects/HelloWorld/app/src/main/AndroidManifest.xml
