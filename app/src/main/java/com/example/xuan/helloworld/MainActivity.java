@@ -28,6 +28,4 @@ public class MainActivity extends Activity {
     public void stopService(View view) {
         stopService(new Intent(getBaseContext(), MyService.class));
     }
-
-
 }
